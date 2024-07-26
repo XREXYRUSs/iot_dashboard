@@ -1,12 +1,12 @@
 // Firebase configuration
 onst firebaseConfig = {
-  apiKey: "AIzaSyCzDnC05HVgIskWZmeGER2dr8bWeUt8tbI",
-  authDomain: "iotcloud-8e494.firebaseapp.com",
-  databaseURL: "https://iotcloud-8e494-default-rtdb.firebaseio.com",
-  projectId: "iotcloud-8e494",
-  storageBucket: "iotcloud-8e494.appspot.com",
-  messagingSenderId: "404519692894",
-  appId: "1:404519692894:web:100ea0231fd2518160a2cf"
+  apiKey: "",
+  authDomain: "",
+  databaseURL: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 };
 
 // Initialize Firebase
